@@ -1,9 +1,3 @@
-# FedHe
-
-
-The source codes of "FedHe: Heterogeneous Models and Communication-Efficient Federated Learning".
-
-
 # FedHe: Heterogeneous Models and Communication-Efficient Federated Learning
 
 This repository is the official implementation of [FedHe: Heterogeneous Models and Communication-Efficient Federated Learning](https://arxiv.org/abs/2110.09910). 
