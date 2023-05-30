@@ -2,7 +2,6 @@
 
 
 The source codes of "FedHe: Heterogeneous Models and Communication-Efficient Federated Learning".
-Tensorflow
 
 
 # FedHe: Heterogeneous Models and Communication-Efficient Federated Learning
