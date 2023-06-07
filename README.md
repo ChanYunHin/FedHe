@@ -35,7 +35,7 @@ Our model achieves the following performance on :
 
 ## Citation
 
-If you find the paper provides some insights into Heterogeneous FL or our code useful 🤗, please consider citing:
+If you find the paper provides some insights or our code useful, please consider giving a star ⭐ and citing:
 
 ```
 @inproceedings{chan2021fedhe,
